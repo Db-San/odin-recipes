@@ -1,6 +1,6 @@
 # Odin Recipes
 
-Odin Recipes is a basic recipe website created as part of The Odin Project's [Foundation course](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum. The website features a collection of delicious recipes for users to browse through and try out in their own kitchens.
+Odin Recipes is a basic recipe website created as part of The Odin Project's [Foundation course](https://www.theodinproject.com/lessons/foundations-recipes) curriculum. The website features a collection of delicious recipes for users to browse through and try out in their own kitchens.
 
 The website isn't very pretty, yet. Not unless you’re into [brutalist web design](https://brutalistwebsites.com/), that is.
 
