@@ -8,7 +8,7 @@ Most importantly, the main purpose of this is to hone my HTML chops; eventually 
 
 ## Website
 
-Website [Live demo](https://db-san.github.io/odin-recipes/) made possible thanks to [Github Pages](https://pages.github.com/).
+[Live demo](https://db-san.github.io/odin-recipes/) made possible thanks to [Github Pages](https://pages.github.com/).
 
 ## Hotlink
 
