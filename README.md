@@ -4,7 +4,7 @@ Odin Recipes is a basic recipe website created as part of The Odin Project's [Fo
 
 The website isn't very pretty, yet. Not unless you’re into [brutalist web design](https://brutalistwebsites.com/), that is.
 
-Most importantly, the main purpose of this is to build my skills of the basic HTML chops; eventually in the future, it will be styled up with CSS.
+Most importantly, the main purpose of this is to hone my HTML chops; eventually in the future, it will be styled up with CSS.
 
 ## Website
 
